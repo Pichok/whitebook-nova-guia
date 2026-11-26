@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Whitebook - Abrir Conteúdos em Nova Guia
 // @namespace    https://pichok.github.io/projects/whitebook-nova-guia
-// @version      1.6
+// @version      1
 // @description  Abre links, cards (<button>) e itens (<div>) do Whitebook em nova guia com controle de foco e sem alterar a aba atual
 // @author       Guilherme H. M. Pichok
 // @homepageURL  https://pichok.github.io/projects/whitebook-nova-guia
